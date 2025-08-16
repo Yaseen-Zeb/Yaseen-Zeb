@@ -12,7 +12,7 @@ I'm a MERN Stack Developer. I love crafting websites that are lightning-fast, ac
 
 ---
 
-## Languages & Tools
+## Skills
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -60,5 +60,17 @@ I'm a MERN Stack Developer. I love crafting websites that are lightning-fast, ac
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
+---
 
-<p><strong>Languages & Tools:</strong> JavaScript, TypeScript, HTML5, CSS3, Tailwind, Bootstrap, React, Redux, D3.js, Node.js, Express, PHP, Laravel, MySQL, Git</p>
+## GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yaseen-Zeb&show_icons=true&theme=tokyonight&hide_border=true" alt="Yaseen Zeb's GitHub stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaseen-Zeb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen-Zeb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
