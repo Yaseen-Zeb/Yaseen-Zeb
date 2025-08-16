@@ -30,14 +30,23 @@ I'm a Web Developer, currently working in MERN Stack. I love designing and devel
 ---
 
 ## GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yaseen-Zeb&show_icons=true&theme=tokyonight&hide_border=true" alt="Yaseen Zeb's GitHub stats" />
-</p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaseen-Zeb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen-Zeb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+  <!-- First Stat: GitHub Stats -->
+  <div style="flex: 1 1 45%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yaseen-Zeb&show_icons=true&theme=tokyonight&hide_border=true" alt="Yaseen Zeb's GitHub stats" />
+  </div>
+
+  <!-- Last Stat: Top Languages -->
+  <div style="flex: 1 1 45%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen-Zeb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </div>
+
+</div>
+
+<!-- Second Stat: GitHub Streak (full width) -->
+<div style="margin-top: 10px; width: 100%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaseen-Zeb&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="width: 100%; max-width: 100%;" />
+</div>
+
