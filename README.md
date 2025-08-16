@@ -1,5 +1,4 @@
 # Hi 👋, My name is Yaseen Zeb
-
 ## MERN Stack Developer
 ---
 
@@ -9,8 +8,6 @@ I'm a MERN Stack Developer. I love crafting websites that are lightning-fast, ac
 - 👨‍💻 I’m open to work **with you**
 - 📫 How to reach me: **yaseenjsdev@gmail.com**
 - 🌎 I'm based in **Peshawar, PK**
-
----
 
 ## Skills
 <p>
