@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Yaseen Zeb</h1>
-<h3 align="center">I'm a MERN Stack Developer, I love crafting websites that are lightning-fast, accessible, and a joy to explore.</h3>
+<h3 align="center">I'm a MERN Stack Developer. I love crafting websites that are lightning-fast, accessible, and a joy to explore.</h3>
 
 - 🌱 I’m currently **exploring more efficient ways to build websites—faster, smarter, and cleaner.**
 
