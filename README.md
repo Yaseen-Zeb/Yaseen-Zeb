@@ -1,7 +1,7 @@
 # Hi 👋, My name is Yaseen Zeb
-## MERN Stack Developer
+## Web Developer
 
-I'm a MERN Stack Developer. I love crafting websites that are lightning-fast, accessible, and a joy to explore.
+I'm a Web Developer, currently working in MERN Stack. I love designing and developing websites that are lightning-fast, accessible, and a joy to explore.
 
 - 🌱 I’m currently **exploring more efficient ways to build websites—faster, smarter, and cleaner.**
 - 👨‍💻 I’m open to work **with you**
